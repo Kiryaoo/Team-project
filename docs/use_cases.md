@@ -1,9 +1,9 @@
 # Розроблення функціональних вимог до системи
+
 ## Короткий вміст
 
 1.[Діаграма прецедентів](#UseCaseDiagrams) 
 2.[Діаграма активностей](#ActivityDiagrams)
-
 
 <center>
 <span id="UseCaseDiagrams "></span>
